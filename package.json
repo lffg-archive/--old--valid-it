@@ -1,0 +1,30 @@
+{
+  "name": "valid-it",
+  "version": "1.0.0-alpha.1",
+  "description": "A simple and extensible string validator in JavaScript.",
+  "files": [
+    "dist"
+  ],
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lffg/valid-it.git"
+  },
+  "keywords": [
+    "validator",
+    "string",
+    "javascript",
+    "typescript",
+    "extensible"
+  ],
+  "author": "Luiz Felipe Gonçalves <https://github.com/lffg>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lffg/valid-it/issues"
+  },
+  "homepage": "https://github.com/lffg/valid-it#readme"
+}
